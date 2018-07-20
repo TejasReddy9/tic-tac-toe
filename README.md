@@ -1,9 +1,18 @@
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
-Project Author: K Tejas Reddy
+Project Author: [K Tejas Reddy](https://tejasreddy9.github.io/)
+
 Year: 2018
+
 LICENSE: MIT Free Software
 
+Project Site: [Tic Tac Toe](https://tejasreddy9.github.io/tic-tac-toe)
+
+# About Tic Tac Toe
+Two player game of Tic Tac Toe, whoever forms a line (vertical, horizontal, or diagonal) first will win. Each have their chances alternatively, also can end up in Draw. Coolest part is it tracks down the history and one can revert back to intermediate steps preserving their chances, i.e., each step's state is saved.
+
+
+## Additional references related to React
 Below you will find some information on how to perform common tasks.<br>
 You can find the most recent version of this guide [here](https://github.com/facebookincubator/create-react-app/blob/master/packages/react-scripts/template/README.md).
 
